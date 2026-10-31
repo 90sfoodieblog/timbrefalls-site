@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://timbrefalls.com/sitemap.xml
